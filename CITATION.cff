@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use the code, experimental artifacts, figures, or results from this repository, please cite the associated manuscript."
+title: "Temporal Robustness and Lightweight Adaptation for Just-In-Time Software Defect Prediction"
+type: software
+authors:
+  - family-names: "Krishna"
+    given-names: "D. Pavan Hari"
+  - family-names: "Prasad"
+    given-names: "M. V. D."
+repository-code: "https://github.com/pavanhari6999/temporal-jit-sdp"
+abstract: "Replication and research artifacts for a chronological, multi-project evaluation of temporal robustness and lightweight adaptation in Just-In-Time Software Defect Prediction."
+keywords:
+  - "Just-In-Time Software Defect Prediction"
+  - "JIT-SDP"
+  - "temporal robustness"
+  - "distribution shift"
+  - "Random Forest"
+  - "Recursive Feature Elimination"
+  - "temporal adaptation"
+  - "adaptive thresholding"
+  - "software engineering"
