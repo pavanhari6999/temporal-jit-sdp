@@ -1,0 +1,17 @@
+# Research Code
+
+The primary executable research artifact is:
+
+`Adaptive_JIT_SDP_Research_Stage8C_BORB_ready.ipynb`
+
+The notebook contains the chronological data audit, feature preparation, Random Forest and XGBoost experiments, RFE analysis, temporal robustness evaluation, adaptation strategies, adaptive threshold analysis, bootstrap confidence intervals, statistical tests, multi-project evaluation, and publication-result consolidation used in the study.
+
+## Running the code
+
+The notebook was designed for Google Colab/Jupyter. Start from the first cell and follow the documented dataset-path checks before running the experiment cells.
+
+Raw datasets are not redistributed in this repository. See `../data/README.md` and `../docs/DATA_AVAILABILITY.md` for provenance and input requirements.
+
+## Reproducibility note
+
+The notebook contains both exploratory/audit cells and final experimental cells because the package preserves the research workflow. The manuscript's reported results are also provided as CSV files under `../results/` for direct auditing.
